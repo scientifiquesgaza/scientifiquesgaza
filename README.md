@@ -1,4 +1,4 @@
-# 📚 Scientifiques et Gaza - "It's better to speak" 
+### 📚 Scientifiques et Gaza - "It's better to speak" 
 
 **Hi there! 👋 Welcome to the official repository for the Séminaires Palestine at Sorbonne Université.**  
 
