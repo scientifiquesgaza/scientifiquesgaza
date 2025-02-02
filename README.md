@@ -1,16 +1,18 @@
-## Hi there 👋
+# 📚 Séminaires Palestine - Sorbonne Université  
 
-<!--
-**scientifiquesgaza/scientifiquesgaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hi there! 👋 Welcome to the official repository for the Séminaires Palestine at Sorbonne Université.**  
+This project provides an academic space for **scientific debate** and **knowledge sharing** about Palestine, beyond mainstream narratives.  
 
-Here are some ideas to get you started:
+## 🎯 About the Project  
+The **Séminaires Palestine** is a series of research-driven discussions, featuring scholars, journalists, and experts.  
+We focus on **critical thinking**, **informed dialogue**, and **transdisciplinary research.**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 **For the latest seminar schedule, visit our website:**  
+🔗 **[scientifiquesgaza.github.io/seminaires.html](https://scientifiquesgaza.github.io/seminaires.html)**  
+
+## 🤝 Collaborate 
+We welcome **collaborations** with researchers, speakers, and contributors. Reach out if you have ideas for projects.
+To get involved:  
+📧 **Email us:** [scientifiquesetgaza@gmail.com](mailto:scientifiquesetgaza@gmail.com)  
+🎥 **YouTube:** [Scientifiques Gaza](https://www.youtube.com/@scientifiquesgaza)  
+🌍 **Website:** [scientifiquesgaza.github.io/seminaires.html](https://scientifiquesgaza.github.io/seminaires.html)  
