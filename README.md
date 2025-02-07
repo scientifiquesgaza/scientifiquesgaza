@@ -2,7 +2,7 @@
 
 **Hi there! 👋 Welcome to the official repository for the Séminaires Palestine at Sorbonne Université.**  
 
-The **Séminaires Palestine** is a series of research-driven discussions, featuring scholars, journalists, and experts.  
+Our **conferences** are a series of research-driven discussions, featuring scholars, journalists, and experts.  
 This project provides an academic space for **scientific debate** and **knowledge sharing** about Palestine, beyond mainstream narratives.  
 
 📌 You can find the latest seminar schedule 🔗 **[here](https://scientifiquesgaza.github.io/seminaires.html)**  
